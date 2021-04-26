@@ -1,0 +1,19 @@
+[
+    {
+        "name": "bob123",
+        "twitch": "bob_twitch",
+        "youtube": "bob_yt",
+        "medalTV": "123456",
+        "discord": "bob#7777"
+    },
+
+    // Can remove this comment and object template below
+    {
+        "name": string [not null],
+        "twitch": string [null],
+        "youtube": string [or null],
+        "medalTV": integer [or null],
+        "discord": string [not null],
+        
+    }
+]

@@ -1,2 +1,7 @@
-.env
+# Folders
 node_modules/
+
+# Files
+.env
+/seeds/*.json
+

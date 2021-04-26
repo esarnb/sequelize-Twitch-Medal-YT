@@ -1,0 +1,10 @@
+[
+    {
+        "guild": "123456789012345678",
+        "channel": 876543210987654321,
+        "hook_url": "https://discord.com/api/webhooks/channel-id-here/long-url-str",
+        "post_yt": false,
+        "post_mtv": true,
+        "post_twitch": true
+    }
+]
